@@ -15,12 +15,10 @@ Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Confe
 <br>
 <br>
 <br>
-
 2 Since no single country can solve climate change, the only workable approach is a collective one. All countries must negotiate in good faith to arrive at an acceptable and workable global agreement. To achieve this, all countries must play their part and do their fair share.  
 <br>
 <br>
 <br>
-
 3 Last year’s Copenhagen Conference did not lead to a comprehensive agreement. But the Copenhagen Accord did represent a modest step forward. Although not perfect, it contained important elements that can help the negotiations. Hence, Singapore, together with 139 other Member States, associated with it to move the negotiations forward.  
 <br>
 <br>
