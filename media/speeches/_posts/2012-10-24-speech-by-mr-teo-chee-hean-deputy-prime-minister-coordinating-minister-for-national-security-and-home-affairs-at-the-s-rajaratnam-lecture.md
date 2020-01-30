@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Home Affairs at the S Rajaratnam Lecture
-subtitle: 23 Oct 2012
+subtitle: 24 Oct 2012
 permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-home-affairs-at-the-s-rajaratnam-lecture
 ---
 
@@ -160,5 +160,6 @@ Today, Singapore is in a position where we are not only able to safeguard our so
 As we face the new and multi-faceted challenges of the future, deft diplomacy, and a strong and versatile SAF will still be required, to enable us to create the space for a stable, secure and prosperous Singapore.
 
 Thank you.
+<br><br><br>
 
-Source: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)
+*Source*: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)

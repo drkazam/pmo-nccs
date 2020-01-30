@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singapore's National Statement Delivered by Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change Mr Teo Chee Hean, at the UNFCCC COP-18 High Level S
-subtitle: 4 Dec 2012
+subtitle: 5 Dec 2012
 permalink: /media/speeches/singapores-national-statement-delivered-by-deputy-prime-minister-coordinating-minister-for-national-security-minister-for-home-affairs
 ---
 
@@ -9,7 +9,7 @@ permalink: /media/speeches/singapores-national-statement-delivered-by-deputy-pri
 
 Mr President,
 
-I would like to begin by congratulating you on your election as the President of this Conference. I thank you for the warm hospitality and excellent arrangements at this Conference. We assure you of our support to make this Conference a success.
+1.would like to begin by congratulating you on your election as the President of this Conference. I thank you for the warm hospitality and excellent arrangements at this Conference. We assure you of our support to make this Conference a success.
 
 **Way forward**
 
