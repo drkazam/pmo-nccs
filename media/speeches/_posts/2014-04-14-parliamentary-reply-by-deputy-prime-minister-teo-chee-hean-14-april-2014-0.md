@@ -7,7 +7,7 @@ permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee
 
 ### PARLIAMENTARY REPLY BY DEPUTY PRIME MINISTER TEO CHEE HEAN, 14 APRIL 2014
 
-**ENHANCING COMMITMENT TO CLIMATE CHANGE**
+**PERSONAL RESPONSIBILITY FOR CLIMATE CHANGE ISSUES**
 
 Assoc Prof Tan Kheng Boon Eugene asked the Prime Minister in view of the recent National Climate Change Secretariat survey (a) what are the likely reasons for the decline in public concern and the lower sense of personal responsibility and action on climate change issues; and (b) what strategies are being envisaged to better outreach to Singaporeans on climate change issues with a view to enhancing personal responsibility and action.
 
