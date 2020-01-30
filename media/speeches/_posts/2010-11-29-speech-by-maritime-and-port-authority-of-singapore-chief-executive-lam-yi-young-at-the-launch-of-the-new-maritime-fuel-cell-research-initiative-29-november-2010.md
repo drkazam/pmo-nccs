@@ -37,5 +37,4 @@ Thank you.
 <br>
 <br>
 <br>
-
 Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f)
